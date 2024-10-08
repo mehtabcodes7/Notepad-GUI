@@ -1,3 +1,6 @@
+#Mehtab Codes Presents
+#Notepad Using Python Tkinter
+
 import tkinter as tk
 from tkinter import filedialog, font, messagebox
 
