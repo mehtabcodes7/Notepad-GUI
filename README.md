@@ -4,7 +4,7 @@ Building Notepad Clone Using Python Tkinter.
 ## Acknowledgements
 
  - [Subscribe Me on Youtube❤️](https://www.youtube.com/@mehtabcodes)
- - [Follow Me On Instagram😉](https://www.instagram.com/mehtabcodesofficial/)
+ - [Follow Me On Instagram😉](https://www.instagram.com/mehtabcodes/)
  - [More Amazing Repositories](https://github.com/mehtabcodes7)
 
 
